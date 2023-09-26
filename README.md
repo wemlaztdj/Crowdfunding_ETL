@@ -14,7 +14,7 @@ Jupyter Notebook
 
 ### Setup
 Clone this repository to your local machine.
-Navigate to the directory containing the Jupyter notebook and the Resources folder.
+Navigate to the directory containing the Jupyter notebook(ETL_Mini_Project.ipynb) and the Resources folder.
 Ensure you have the required Python libraries installed.
 
 ### Contributors
