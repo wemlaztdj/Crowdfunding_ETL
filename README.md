@@ -20,5 +20,7 @@ Ensure you have the required Python libraries installed.
 ### Contributors
 
 Li, Mu
+
 Tarassenko, Elena
+
 Cao, Tianxiao
